@@ -1,3 +1,8 @@
+#!/Users/cevherdogan/.pvenv/python-mini-projects/bin/python
+
+# python extract_zip_files.py devtest.zip # did not work, moved interpreter to #! 
+# Change above to point to the local python location at your end 
+
 import os
 import zipfile
 import sys
