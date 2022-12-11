@@ -1,1 +1,3 @@
-xmltodict==0.12.0
+xmltodict==0.13.0
+pipdeptree==2.3.3
+xmlformatter==0.2.4
