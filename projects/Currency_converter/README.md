@@ -9,7 +9,7 @@ A small python program that converts currency with live info
 
 ### How to run the script
 <!--Remove the below lines and add yours -->
-> python cc.py
+> rit.sh # run it
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
