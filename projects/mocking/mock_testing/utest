@@ -1,0 +1,6 @@
+pip install requests
+
+python -m unittest
+python -m unittest test_calc_sideeffects.py
+
+
